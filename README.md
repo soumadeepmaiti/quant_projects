@@ -1,7 +1,7 @@
 # Quantitative Finance Projects
 
 **Soumadeep Maiti** — Physics MSc, LMU Munich  
-`soumadeepmaiti21@gmail.com` · [LinkedIn](https://linkedin.com/in/soumadeepmaiti) · [GitHub](https://github.com/soumadeepmaiti) · [arXiv:2602.21246](https://arxiv.org/abs/2602.21246)
+`soumadeepmaiti21@gmail.com` 
 
 ---
 
